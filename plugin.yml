@@ -1,0 +1,9 @@
+---
+name: ShowPerms
+version: 1.0
+main: ethaniccc\ShowPerms\Main
+api: 3.11.5
+commands:
+ showperms:
+  description: Show all the permission nodes!
+...
