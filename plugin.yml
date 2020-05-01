@@ -1,6 +1,6 @@
 ---
 name: ShowPerms
-version: 1.0
+version: 1.0-beta
 main: ethaniccc\ShowPerms\Main
 api: 3.11.5
 commands:
